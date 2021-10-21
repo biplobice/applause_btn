@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+    <blocktypes>
+        <blocktype handle="applause_btn" package="applause_btn"/>
+    </blocktypes>
+
+    <blocktypesets>
+        <blocktypeset handle="social" name="Social Networking" package="">
+            <blocktype handle="applause_btn"/>
+        </blocktypeset>
+    </blocktypesets>
+</concrete5-cif>
